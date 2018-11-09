@@ -28,7 +28,7 @@ class Game extends Component {
       topScore: newTopScore
     });
 
-    if (newScore === 12) {
+    if (newScore === 16) {
       alert("You've achieve the highest score possible, Thanks for playing");
     }
   };

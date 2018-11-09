@@ -6,17 +6,17 @@
   overflow: auto;
 }
 
-.footer > .bottom {
+.footer > .center {
   position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
+  top: 0; 
+  left: 45%;
   background:#ac28ae;
   padding: 8px;
   font-weight: 600;
 }
 
-.footer > .bottom > img {
+.footer > .center > img {
+  background-color: #ac28ae;
   width: 20px;
   position: relative;
   top: 3px;
